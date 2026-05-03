@@ -1,0 +1,22 @@
+{
+  "listName": "Projects",
+  "columns": [
+    {
+      "name": "ProjectName",
+      "type": "Text"
+    },
+    {
+      "name": "Owner",
+      "type": "Person"
+    },
+    {
+      "name": "Status",
+      "type": "Choice",
+      "choices": ["Planned", "Active", "Completed"]
+    },
+    {
+      "name": "Budget",
+      "type": "Number"
+    }
+  ]
+}
