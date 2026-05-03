@@ -1,5 +1,3 @@
-# sharepoint-powerbi-poc
-Dev
 
 # Microsoft 365 Developer Sandbox – PoC
 
